@@ -1,0 +1,3 @@
+link for college chatbot
+
+https://web-chat.global.assistant.watson.appdomain.cloud/preview.html?backgroundImageURL=https%3A%2F%2Fau-syd.assistant.watson.cloud.ibm.com%2Fpublic%2Fimages%2Fupx-852c2b22-f507-41af-ad6b-816a63294f35%3A%3Aeb500fe2-55d3-4273-a557-bad64e296eb3&integrationID=12ae7de1-ea32-4228-a1f2-e9f7891c6851&region=au-syd&serviceInstanceID=852c2b22-f507-41af-ad6b-816a63294f35
